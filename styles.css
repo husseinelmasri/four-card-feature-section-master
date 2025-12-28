@@ -33,7 +33,7 @@ html {
   max-width: 50%;
   margin: 20px auto 50px;
 }
-.title h2:first-child {
+.title h1:first-child {
   font-weight: 400;
 }
 .card-container {
@@ -79,7 +79,7 @@ p {
   gap: 30px;
 }
 
-h2,
+h1,
 h4 {
   color: var(--heading);
   font-weight: 600;
