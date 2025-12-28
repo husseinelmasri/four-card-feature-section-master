@@ -28,6 +28,7 @@ html {
 }
 .title {
   text-align: center;
+  padding-top: 25em;
 }
 .title p {
   max-width: 50%;
@@ -49,6 +50,7 @@ html {
   justify-content: center;
   align-items: center;
   max-width: 1000px;
+  padding-bottom: 200px;
 }
 
 .card {
