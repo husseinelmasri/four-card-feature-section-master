@@ -28,7 +28,7 @@ html {
 }
 .title {
   text-align: center;
-  padding-top: 25em;
+  padding-top: 20em;
 }
 .title p {
   max-width: 50%;
@@ -55,7 +55,7 @@ html {
 
 .card {
   background-color: white;
-  box-shadow: 0 2px 3px var(--paragraph), 0 4px 10px var(--paragraph);
+  box-shadow: 4px 16px 24px -4px rgba(0, 0, 0, 0.5);
   padding: 25px;
   border-radius: 5px;
   display: flex;
