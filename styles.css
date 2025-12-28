@@ -37,6 +37,7 @@ html {
 .title h1:first-child {
   font-weight: 200;
   font-size: 2.25rem;
+  padding-top: 30px;
 }
 .title h1:nth-child(2) {
   font-weight: 700;
