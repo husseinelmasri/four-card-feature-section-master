@@ -32,9 +32,15 @@ html {
 .title p {
   max-width: 50%;
   margin: 20px auto 50px;
+  font-weight: 600;
 }
 .title h1:first-child {
-  font-weight: 400;
+  font-weight: 200;
+  font-size: 2.25rem;
+}
+.title h1:nth-child(2) {
+  font-weight: 700;
+  font-size: 2.25rem;
 }
 .card-container {
   display: grid;
