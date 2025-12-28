@@ -26,12 +26,9 @@ html {
   align-items: center;
   background-color: var(--main-background);
 }
-body {
-  padding: 15em;
-}
 .title {
   text-align: center;
-  margin-top: 15em;
+  margin-top: 30px;
 }
 .title p {
   max-width: 50%;
@@ -53,6 +50,7 @@ body {
   justify-content: center;
   align-items: center;
   max-width: 1000px;
+  margin-top: 5em;
 }
 
 .card {
